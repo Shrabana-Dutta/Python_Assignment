@@ -20,8 +20,3 @@ Calculate:
 -Mean
 -Median
 -Standard Deviation
-Display the results clearly.
-Example Output
-Mean: 49.87
-Median: 50.12
-Standard Deviation: 28.45

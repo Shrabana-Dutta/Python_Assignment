@@ -1,15 +1,13 @@
 Assignment 4: Object-Oriented Programming (OOP)
 Create a class named Employee with the following:
-Attributes
+Attributes:
 The constructor should initialize:
-name
-years_of_service
-Method
-Create a method named salary() that calculates salary using the formula:
-Salary=1500+100×years_of_service
-Create a subclass named Manager that overrides the salary() method using the formula:
-Salary=2500+120×years_of_service
-Database Creation
+-name
+-years_of_service
+Method:
+-Create a method named salary() that calculates salary using the formula: Salary=1500+100×years_of_service
+-Create a subclass named Manager that overrides the salary() method using the formula: Salary=2500+120×years_of_service
+Database Creation:
 Create a small dictionary-based database where:
 the key is the employee’s name
 the value is the corresponding object
