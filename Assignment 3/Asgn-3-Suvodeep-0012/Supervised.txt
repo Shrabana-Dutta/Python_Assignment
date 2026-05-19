@@ -1,0 +1,1 @@
+Supervised learning is a branch of machine learning where an algorithm learns from "labeled" data—information that already contains the correct answers. By comparing its own predictions against these known labels, the model adjusts itself over time to improve accuracy.
