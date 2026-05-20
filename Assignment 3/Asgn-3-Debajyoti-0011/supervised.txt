@@ -1,0 +1,5 @@
+The main difference between supervised learning and unsupervised learning lies in the type of data they use and their objectives.
+
+Supervised learning uses labeled data, where each input is paired with a corresponding output. The goal is to learn the relationship between inputs and outputs to predict outcomes for new data. For example, supervised learning can classify emails as spam or not spam or predict house prices based on features like size and location.
+
+Unsupervised learning, on the other hand, works with unlabeled data. Its objective is to uncover hidden patterns, structures, or relationships within the dataset. For instance, it can group customers based on their purchasing behavior or detect anomalies in network traffic.
