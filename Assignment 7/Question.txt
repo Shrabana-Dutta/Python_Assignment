@@ -1,0 +1,1 @@
+[Different matrix operations] Write a program that inputs a square matrix of order N and find determinant, inverse, transpose, scalar multiplication, adjoint, rank, diagonal elements, trace eigen value and vector of the input matrix.

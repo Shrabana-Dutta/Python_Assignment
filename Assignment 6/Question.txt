@@ -1,0 +1,2 @@
+[Cauchy-Schwarz inequality] :Let u=(1,2,3) and v=(4,1,2) be vectors in R3. Compute u+v, 2u, and the dot product of u and v. Check whether the vectors are orthogonal. Verify the Cauchy–Schwarz inequality for these vectors. 
+Hint: Use numpy (np.array, np.dot, np.linalg.norm) to perform vector operations and verify orthogonality and Cauchy-Schwarz inequality.
