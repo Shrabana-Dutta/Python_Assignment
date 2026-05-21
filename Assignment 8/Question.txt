@@ -1,0 +1,6 @@
+[Linear Combination of Vectors] Write a Python program that inputs N vectors u1,u2,u3,. . . uN each of
+dimension 3, and corresponding scalars a1,a2,a3,...,aN.
+Compute the linear combination :
+a1u1+a2u2+a3u3+...+aNuN. Also verify whether the
+resulting vector is the zero vector, and comment whether the
+given vectors may be linearly dependent based on the result
